@@ -1,17 +1,16 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Pumarrumi Viera, Ricardo Fernando",
+  title: "Ingeniero De Sistemas",
+  description: "Hola, soy Ricardo este es mi Portafolio Web",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "richifernando333@gmail.com",
+    linkedin: "https://www.linkedin.com/in/ricardo-fernando-pumarrumi-viera-b89aa1288/",
+    github: "https://github.com/RiccardoFer",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "Hola! Soy Ricardo Fernando, egresado de Ingeniería de Sistemas e Informática, con capacidad de aprendizaje y análisis enfocado en el logro de resultados. Destaco por mi facilidad para adquirir nuevos conocimientos, comunicarme a todo nivel con una actitud positiva y afrontar situaciones de alta presión. Apasionado de los temas relacionado a Tecnologías de la información, tengo el deseo de contribuir al cumplimiento de objetivos, la satisfacción del cliente y la adaptación a las demandas actuales, poder alcanzar y crecer en el desarrollo profesional para realizar actividades de alto nivel y poder desempeñarme de manera eficiente y eficaz en las actividades que desarrolle.",
+  skills: ["Javascript", "Power BI", "Java", "Python", "Microsoft Office Excel", "Ingles"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
@@ -69,19 +68,19 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "UNIVERSIDAD TECNOLOGICA DEL PERU",
+      degree: "Ingenieria de Sistemas e Informatica ",
+      dateRange: "2020-2025",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
+        "Egresado en la carrera Ingenieria de Sistemas e Informatica ",
+        "Certificados mediante proceso academico: ",
         "President of Computer Science Club",
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "IPCNA: ",
+      degree: "Instituto Cultural Peruano Norteamericano",
+      dateRange: "2021-2025",
       achievements: [
         "Completed 500+ hours of coursework",
         "Built 10+ portfolio projects",
