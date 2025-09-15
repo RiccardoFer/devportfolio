@@ -13,7 +13,7 @@ export const siteConfig = {
   skills: ["Javascript", "Power BI", "Java", "Python", "Microsoft Office Excel", "Inglés","Trabajo en equipo","Capacidad de Análisis "],
   projects: [
     {
-      name: "INTELIGENCIA DE NEGOCIOS: WATSON ",
+      name: "INTELIGENCIA DE NEGOCIOS: WATSON",
       description:
         "Análisis de las ventas entre los años 2020-2022. Aplicaciones de KPIs, Indicadores, Representaciones graficas estadisticas en Power BI, Modelo Dimensional ",
       link: "https://aidevroundup.com/?ref=devportfolio",
