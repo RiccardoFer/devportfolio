@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Pumarrumi Viera, Ricardo Fernando",
-  title: "Ingeniero De Sistemas",
+  title: "Ingeniero De Sistemas e Informatica",
   description: "Hola, soy Ricardo este es mi Portafolio Web",
   accentColor: "#1d4ed8",
   social: {
@@ -10,62 +10,31 @@ export const siteConfig = {
   },
   aboutMe:
     "Hola! Soy Ricardo Fernando, egresado de Ingeniería de Sistemas e Informática, con capacidad de aprendizaje y análisis enfocado en el logro de resultados. Destaco por mi facilidad para adquirir nuevos conocimientos, comunicarme a todo nivel con una actitud positiva y afrontar situaciones de alta presión. Apasionado de los temas relacionado a Tecnologías de la información, tengo el deseo de contribuir al cumplimiento de objetivos, la satisfacción del cliente y la adaptación a las demandas actuales, poder alcanzar y crecer en el desarrollo profesional para realizar actividades de alto nivel y poder desempeñarme de manera eficiente y eficaz en las actividades que desarrolle.",
-  skills: ["Javascript", "Power BI", "Java", "Python", "Microsoft Office Excel", "Ingles"],
+  skills: ["Javascript", "Power BI", "Java", "Python", "Microsoft Office Excel", "Inglés","Trabajo en equipo","Capacidad de Análisis "],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "INTELIGENCIA DE NEGOCIOS: WATSON ",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
+        "Análisis de las ventas entre los años 2020-2022. Aplicaciones de KPIs, Indicadores, Representaciones graficas estadisticas en Power BI, Modelo Dimensional ",
       link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Power BI", "Visual Studio", "Microsoft Word", "SQL Server Management Studio"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "INTEGRADOR II: ",
       description:
         "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
       link: "https://fullstackextensions.com/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
     {
-      name: "ExtensionKit",
+      name: "GOBIERNO DE TIC: SGS PERU",
       description:
         "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
       link: "https://extensionkit.io/?ref=devportfolio",
       skills: ["React", "Node.js", "AWS"],
     },
   ],
-  experience: [
-    {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
-      bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
-      ],
-    },
-    {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
-      bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
-      ],
-    },
-  ],
+ 
   education: [
     {
       school: "UNIVERSIDAD TECNOLOGICA DEL PERU",
@@ -73,18 +42,18 @@ export const siteConfig = {
       dateRange: "2020-2025",
       achievements: [
         "Egresado en la carrera Ingenieria de Sistemas e Informatica ",
-        "Certificados mediante proceso academico: ",
-        "President of Computer Science Club",
+        "Certificados mediante proceso academico: CCNAv7: Introduction to Networks, Scrum Fundamentals Certified, Fundamentos de Scrum",
+        "Logro Academico: Décimo Superior",
       ],
     },
     {
-      school: "IPCNA: ",
-      degree: "Instituto Cultural Peruano Norteamericano",
+      school: "IPCNA: Instituto Cultural Peruano Norteamericano",
+      degree: "Programa de Inglés para Jóvenes y Adultos ",
       dateRange: "2021-2025",
       achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "Finalización del programa en los niveles: Basico-Intermedio-Avanzado",
+        "Desarrollo de habilidades: Escritura, Comprensión lectora, Presentaciones en Microsoft PowerPoint mediante el idioma Inglés",
+        "Proximo examen TOEFL Avanzado: 29/09/2025",
       ],
     },
   ],
