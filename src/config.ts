@@ -16,21 +16,21 @@ export const siteConfig = {
       name: "INTELIGENCIA DE NEGOCIOS: WATSON",
       description:
         "Análisis de las ventas entre los años 2020-2022. Aplicaciones de KPIs, Indicadores, Representaciones graficas estadisticas en Power BI, Modelo Dimensional ",
-      link: "https://aidevroundup.com/?ref=devportfolio",
+      link: "",
       skills: ["Power BI", "Visual Studio", "Microsoft Word", "SQL Server Management Studio"],
     },
     {
       name: " CURSO INTEGRADOR II SISTEMAS: Implementación de aplicativo móvil para la gestión de venta y distribución de gas en la empresa MasGas",
       description:
         "Gestión eficiente en ventas, distribución de gas, calidad de servicio, competitividad",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
+      link: "",
       skills: ["Firebase", "React Native", "Node.js", "Android Studio","Visual Studio Code","Express.js","Xcode","Microsoft Word"],
     },
     {
       name: "GOBIERNO DE TIC: SGS PERU",
       description:
         "Análisis interno en el Area TI, mejora de infraestructrua TI. Análisis estructural del Gobierno de TI",
-      link: "https://extensionkit.io/?ref=devportfolio",
+      link: "",
       skills: ["COBIT 2019", "Microsoft Word", "TOGAF V10"],
     },
   ],
