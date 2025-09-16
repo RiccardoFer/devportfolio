@@ -20,18 +20,18 @@ export const siteConfig = {
       skills: ["Power BI", "Visual Studio", "Microsoft Word", "SQL Server Management Studio"],
     },
     {
-      name: "INTEGRADOR II: ",
+      name: " CURSO INTEGRADOR II SISTEMAS: Implementación de aplicativo móvil para la gestión de venta y distribución de gas en la empresa MasGas",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
+        "Gestión eficiente en ventas, distribución de gas, calidad de servicio, competitividad",
       link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Firebase", "React Native", "Node.js", "Android Studio","Visual Studio Code","Express.js","Xcode","Microsoft Word"],
     },
     {
       name: "GOBIERNO DE TIC: SGS PERU",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
+        "Análisis interno en el Area TI, mejora de infraestructrua TI. Análisis estructural del Gobierno de TI",
       link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["COBIT 2019", "Microsoft Word", "TOGAF V10"],
     },
   ],
  
